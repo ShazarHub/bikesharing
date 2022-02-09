@@ -1,4 +1,5 @@
 # bikesharing
+Link to Data : https://public.tableau.com/app/profile/shazar.satar/viz/CitiBike_Challenge_16436753866900/CitiBikeStory?publish=yes
 ## Purpose
 The purpose of this analysis was to show the length of time that bikes are checked out for all riders and genders, show the number of bike trips for all riders and genders for each hour of each day of the week, and show the number of bike trips for each type of user and gender for each day of the week. Then we will create our final presentation and analysis to pitch to investors.
 
